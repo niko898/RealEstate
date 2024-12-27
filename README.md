@@ -1,0 +1,1 @@
+React project - create main function of real estates web app
