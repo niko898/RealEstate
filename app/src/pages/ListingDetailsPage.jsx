@@ -1,8 +1,6 @@
 import { useParams } from 'react-router-dom';
 
-import api from '@/api';
 import ListingDetailsCard from '@/components/ListingDetailsCard';
-import { Spinner } from '@/components/ui';
 import useFetch from '@/hooks/useFatch';
 import DataRenderer from '@/components/DataRenderer';
 
